@@ -12,7 +12,9 @@ This is intro
 ## Purpose
 
 Sample website with plenty of files for demos
+lalala
 
 ##Deployment
+This is a Deploy
 
 ##How To Contribute
